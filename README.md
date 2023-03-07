@@ -1,4 +1,18 @@
-# Getting Started with Create React App
+
+# NoteKeeping Application
+
+Welcome to Notekeeping, a simple web application for taking notes. This application allows you to create, read, update, and delete notes. The interface is designed to be user-friendly and easy to use, with a clean and modern look.
+
+## Technologies Used
+ This project was built using the following technologies:
+
+HTML5,
+CSS3,
+JavaScript,
+ReactJS,
+and
+sass
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
