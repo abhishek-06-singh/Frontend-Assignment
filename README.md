@@ -13,6 +13,11 @@ ReactJS,
 and
 sass
 
+## look of the Project
+
+![Screenshot Capture - 2023-03-07 - 12-12-58](https://user-images.githubusercontent.com/115978151/223345984-af074ae8-eee8-461c-a9f9-cbe020fcc9ea.png)
+![Screenshot Capture - 2023-03-07 - 12-12-40](https://user-images.githubusercontent.com/115978151/223346002-9516d9f2-275b-40ae-af79-223af71f6b04.png)
+![Screenshot Capture - 2023-03-07 - 12-13-12](https://user-images.githubusercontent.com/115978151/223346027-0767c827-3404-4fa1-93d3-342e9859b06c.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
